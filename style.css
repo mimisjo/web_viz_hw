@@ -1,0 +1,17 @@
+.box {
+  min-height: 50px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.skyblue {
+  background: deepskyblue;
+}
+
+.purple {
+  background: rebeccapurple;
+}
+
+.red {
+  background: indianred;
+}
